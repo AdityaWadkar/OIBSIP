@@ -60,7 +60,7 @@ Whether you're a complete beginner or have some programming experience, this vid
 [<img src="https://user-images.githubusercontent.com/67093170/221611848-7fd20514-0ba1-4138-962f-8f1221acca76.png">](https://youtu.be/UDtwhaVbkvE)
 
 
-## 3 car price prediction for beginners
+## 3. car price prediction for beginners
 
 
 ## 🌼Download dataset from [here](https://raw.githubusercontent.com/amankharwal/Website-data/master/CarPrice.csv)
