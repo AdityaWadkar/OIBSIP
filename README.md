@@ -1,4 +1,4 @@
-# OIBSIP
+# Oasis Infobyte Internship
 
 [![Build Status](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger.svg?branch=master)](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger)
 ![Python](https://img.shields.io/badge/python-3.8.3-blue.svg)
